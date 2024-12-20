@@ -1,0 +1,5 @@
+tensorflow~=2.18
+keras
+pandas
+numpy < 2
+tables
